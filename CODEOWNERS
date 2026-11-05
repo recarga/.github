@@ -1,1 +1,3 @@
-/.github/workflows/ @recarga/platform
+/.github/workflows/ @recarga/infosec @recarga/platform @recarga/devex
+/policy.yml         @recarga/infosec
+CODEOWNERS          @recarga/infosec
